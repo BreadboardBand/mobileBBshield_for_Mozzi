@@ -1,6 +1,6 @@
 # mobileBB shield for Mozzi
 
-November 6 2013, by The Breadboard Band, Based on exported list from Fritzing 0.8.3- http://fritzing.or
+November 6 2013, by The Breadboard Band, Based on exported list from Fritzing 0.8.3- http://fritzing.org
 
 ## Parts List
 |Label                  |Part Type        |Properties|Quantities            |
