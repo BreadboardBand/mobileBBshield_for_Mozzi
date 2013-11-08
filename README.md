@@ -2,7 +2,7 @@
 
 
 mobileBB shield for Mozziは、Arduinoでオーディオ信号を扱うためのライブラリ 
-Mozzi (http://sensorium.github.io/Mozzi/)を、ハードウェアの面からも簡単に使うことができるようにしたArduino shieldです。
+Mozzi ( http://sensorium.github.io/Mozzi/ )を、ハードウェアの面からも簡単に使うことができるようにしたArduino shieldです。
  
 - Mozziからのオーディオ信号の高周波を取り除くフィルターと3.5mmモノジャック
 - Mozziへの入力のための回路と3.5mmモノジャック
