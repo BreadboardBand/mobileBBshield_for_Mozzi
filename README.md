@@ -11,3 +11,10 @@
 https://github.com/BreadboardBand/mobileBBshield_for_Mozzi
 
 mobileBB shield for Mozzi は、私たちBreadboard Band がライブをしたり、新し い楽器を作る中で、「こういうものがあったら便利なんじゃないか?」と考えていたこ とを実現したものです。最低限の追加部品だけで作られているのは、ここから自由に発想をしてほしい、という思いからです。
+
+## 取扱説明書
+[pdfへのリンク](https://raw.github.com/BreadboardBand/mobileBBshield_for_Mozzi/master/manual.pdf) 
+
+## 回路図
+![cirtcuit diagram](https://raw.github.com/BreadboardBand/mobileBBshield_for_Mozzi/master/mobileBBshield_for_Mozzi_2014_mft.png)
+
