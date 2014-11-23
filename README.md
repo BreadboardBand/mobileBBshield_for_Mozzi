@@ -1,4 +1,5 @@
 # mobileBB shield for Mozzi
+![shield for mft 2014](https://raw.github.com/BreadboardBand/mobileBBshield_for_Mozzi/master/mozziShield_2014MFT.JPG)
 ## About
 *mobileBB shield for Mozzi*は、Arduinoでオーディオ信号を簡単に扱うためのライブラリMozzi (http://sensorium.github.io/Mozzi/) を、ハードウェアの面からも簡単に 使うことができるようにした Arduino shieldです。2013年の Maker Faire Tokyoで展示したものをバージョンアップして、このたび販売することとなりました。
 
