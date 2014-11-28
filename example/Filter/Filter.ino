@@ -25,7 +25,7 @@ void updateControl(){
   knobA2 = map(knobA2, 0, 1023, 1, 255);
   svf.setResonance((float)knobA2);
 
-  knobA1 = map(knob, 0, 1023, 20, 3000);
+  knobA1 = map(knobA1, 0, 1023, 20, 3000);
   float cutoff_freq = (float)knobA1;
   svf.setCentreFreq(cutoff_freq);
 }
