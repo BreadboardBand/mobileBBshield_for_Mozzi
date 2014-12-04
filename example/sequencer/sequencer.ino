@@ -174,7 +174,7 @@ int readIndex = 1;
 char delayBuffer[1024];
 int updateAudio(){
    char sig =  (int) (envelope.next() * (aSin.next() >> 1) + (aCarrier.next() >> 1)   )>>8;   
-   sig = sig < 0 ? -127 : 127;
+   // sig = sig < 0 ? -127 : 127;
    return sig;
 }
 
